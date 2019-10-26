@@ -1,9 +1,9 @@
 # imooc-collection
 imooc resource ，**优秀的公开课IMOOC**
 
-## 公开课导
+## 公开课网址导航
 
-- [公开课]( http://www.moocs.org.cn/ )
+- [公开课网址导航]( http://www.moocs.org.cn/ )
 
   
 
