@@ -49,7 +49,8 @@ imooc resource ，**优秀的公开课IMOOC**
   - [代码（大作业、Lab）](https://github.com/SJTU-SE/awesome-se)
   - [课件](https://github.com/sjtu-se-courseware/sjtu-se-courseware)
 
-- [北京林业大学信息学院课程攻略](https://github.com/bljx/BFU-leaf)
+- 北京林业大学
+  - [北京林业大学信息学院课程攻略](https://github.com/bljx/BFU-leaf)
 
 
 
