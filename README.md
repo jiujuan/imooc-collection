@@ -1,5 +1,5 @@
 # imooc-collection
-imooc resource ，**优秀的公开课IMOOC**
+imooc resources ，**优秀的公开课IMOOC资源收集整理**
 
 ## 公开课网址导航
 
